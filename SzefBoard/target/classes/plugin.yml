@@ -1,0 +1,5 @@
+name: SzefBoard
+version: 1.0
+main: pl.antekszef.szefBoard.SzefBoard
+api-version: 1.19
+depend: [PlaceholderAPI]

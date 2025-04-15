@@ -1,0 +1,7 @@
+scoreboard:
+  title: "&b&lSzef&e&lBoard 1.0"
+  lines:
+    - "&7Gracz: &f%player_name%"
+    - "&7Kasa: &f%vault_eco_balance%"
+    - "&7Online: &f%server_online%"
+    - "&7Świat: &f%player_world%"
